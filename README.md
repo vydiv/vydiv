@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Diana
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Developer from Belarus </h3> 
+<h3 align="center">Python Developer </h3> 
 
 ![33d35db8934632ded132d7cb171c8a21](https://user-images.githubusercontent.com/11966417/184622164-e2a65ae4-345e-477b-9b5d-32aa59ce09cc.gif)
 
