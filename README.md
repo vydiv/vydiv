@@ -1,5 +1,7 @@
 ![banner (2)](https://user-images.githubusercontent.com/11966417/184629570-59e816fe-b86b-437d-956f-f22a550b1630.png)
 
+Hello! I'm a Python developer who is always striving upgrade your skills and regrets at this time. If you have started something, you must
+be sure to finish and not stop until it is as it should, and if it doesn't work, must start from the beginning, and so on you won't be successful.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -13,6 +15,26 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="html" width="30" height="30"/> Linux <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="html" width="30" height="30"/> Windows 
 
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/11966417/184622164-e2a65ae4-345e-477b-9b5d-32aa59ce09cc.gif">
+<h3 align="left">Hard skills:</h3>
+
+- SQL
+- Python3,
+- HTML, CSS, JavaScript
+- Django MVT, Flask, Aiogram, Selenium,PyQt5, sqlite3
+- Windows (7,8,8.1,10)
+- Linux (Ubuntu, Kali)
+
+<h3 align="left">Soft skills:</h3>
+
+- Communication
+- Empathy
+- Patience
+- Open-mindedness and adaptability
+- Accountability
+- Management
+- Teamwork 
+- Mentoring
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vydi_v" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="" height="30" width="40" /></a>
