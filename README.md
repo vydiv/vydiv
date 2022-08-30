@@ -1,6 +1,6 @@
 ![banner (2)](https://user-images.githubusercontent.com/11966417/184629570-59e816fe-b86b-437d-956f-f22a550b1630.png)
 
-Hello! I'm a Python developer who is always striving upgrade your skills and regrets at this time. If you have started something, you must
+Hello! I'm a Python developer who is always striving upgrade your skills and don't regret this time. If you have started something, you must
 be sure to finish and not stop until it is as it should, and if it doesn't work, must start from the beginning, and so on you won't be successful.
 
 <h3 align="left">Languages and Tools:</h3>
