@@ -17,10 +17,9 @@ be sure to finish and not stop until it is as it should, and if it doesn't work,
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/11966417/184622164-e2a65ae4-345e-477b-9b5d-32aa59ce09cc.gif">
 <h3 align="left">Hard skills:</h3>
 
-- SQL
-- Python3,
-- HTML, CSS, JavaScript
-- Django MVT, Flask, Aiogram, Selenium,PyQt5, sqlite3
+- Python3, HTML, CSS, JavaScript
+- PostgreSQL, SQLite
+- Django, RestAPI, Flask, Aiogram, Selenium, PyQt5, SQLAlchemy
 - Windows (7,8,8.1,10)
 - Linux (Ubuntu, Kali)
 
